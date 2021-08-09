@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hoitemmie
+- 👀 I’m interested in things
+- 🌱 I’m currently learning coding, architecture, and engineering
